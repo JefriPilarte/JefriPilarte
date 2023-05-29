@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/jefri-pilarte-0a9522235/" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkln" width="28" />
     </a>
-    👈 or my Portfolio 👉 <a href="https://www.linkedin.com/in/jefri-pilarte-0a9522235/" target="_blank">📁</a> 👈
+    👈 or my Portfolio 👉 <a href="https://portfolio-eight-zeta-68.vercel.app/" target="_blank">📁</a> 👈
   </h2>
 </div>
 
